@@ -14,4 +14,4 @@ The script will then retrieve the current Steam sale data and print the names, p
 This script was created by me as a personal project for learning Python and web scraping. It uses the requests library to retrieve JSON data from the Steam API and the webbrowser library to open the Steam store pages in the web browser.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) License. Feel free to modify and distribute the code as you see fit, but please credit the original author.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the code as you see fit, but please credit the original author.
